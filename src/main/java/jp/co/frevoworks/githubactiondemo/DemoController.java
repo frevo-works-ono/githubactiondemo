@@ -10,7 +10,7 @@ public class DemoController {
 
     @GetMapping
     public String hello() {
-        return "Hello, GitHub Actions.";
+        return "Hello, GitHub Actions!";
     }
 
 }
